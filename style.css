@@ -1,0 +1,160 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.main{
+    width: 100%;
+    height: 100px;
+    background-color:white;
+}
+body{
+    margin: 0px;
+}
+.mainin{
+    height: 45px;
+    width: 87%;
+    background-color: red;
+    margin-left: 139px;
+    margin-top: -52px;
+    
+}
+.maintwo{
+    font-size: 20px;
+    display:inline;
+    word-spacing: 100px;
+}
+.a li{
+    list-style-type: none;
+    display:inline;
+
+}
+.firstimg{
+    margin-left: 300px;
+    
+}
+.sidehiness{
+    margin-right: 1200px;
+    width: 100%;
+    margin-left: -300px;
+    height: 100px;
+}
+.hinesspoints{
+    margin-left: 300px;
+    height: 130px;
+}
+.secondimg{
+    margin: 300px;
+    
+}
+.sidehonda{
+    margin-right: 1200px;
+    width: 100%;
+}
+.hondascooter{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(11, 15, 12);
+    
+}
+#scooter{
+    color: white;
+}
+.scooternames{
+    margin: 0;
+    background-color: red;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 0%;
+}
+.activa{
+    background-image:url(activa.jpg);
+    width: 33.33%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 300px;
+}
+.dio{
+     background-image: url(dio.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+  width: 33.33%;
+}
+.grazia{
+    background-image: url(/day1/grazia.jpeg);
+    background-size: cover;
+    width: 33.33%;
+}
+
+
+
+.hondabikes{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(11, 15, 12);
+    
+}
+#bikes{
+    color: white;
+}
+.bikenames{
+    margin: 0;
+    background-color: white;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 0%;
+}
+.hornet{
+    background-image:url(hornet.jpg);
+    width: 33.33%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 300px;
+}
+.unicorn{
+     background-image: url(unicorn.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+  width: 33.33%;
+  
+     
+    
+}
+.cb1000r{
+    background-image: url(cb1000r1.jpg);
+    background-size: cover;
+    width: 33.33%;
+}
+.footer{
+    background-color: white;
+    display:flex;
+    justify-content: space-evenly;
+    height: 300px;
+    color: turquoise;
+    position: relative;
+}
+.section li{
+    margin-bottom: 10px;
+    color: rgb(12, 11, 11);
+    list-style: none;
+
+}
+.section{
+    display:flex;
+    flex-direction: column;
+    margin-top: 60px;
+    
+    
+}
+.section li h1{
+    color: rgb(255, 0, 0);
+}
+
